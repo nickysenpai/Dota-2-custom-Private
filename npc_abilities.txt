@@ -123,7 +123,7 @@
 	}
 
 	//=================================================================================================================
-	// Ability: Antimage Mana Break CUNT
+	// Ability: Antimage Mana Break CUNT cunt
 	//=================================================================================================================
 	"antimage_mana_break"
 	{
@@ -23499,22 +23499,22 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"sigil_radius"				"600"
+				"sigil_radius"				"1200"
 			}
 			"02"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"sigil_duration"			"30.0"
+				"sigil_duration"			"60.0"
 			}
 			"03"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"move_slow"					"10 15 20 25"
+				"move_slow"					"15 30 40 50"
 			}
 			"04"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"attack_slow"				"30 40 50 60"
+				"attack_slow"				"60 80 100 120"
 			}
 
 		}
@@ -23551,17 +23551,17 @@
 			"01"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"walrus_window"				"10.0"
+				"walrus_window"				"20.0"
 			}
 			"02"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"crit_multiplier"			"300"
+				"crit_multiplier"			"600"
 			}
 			"03"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"threshold_crit_multiplier"	"400"
+				"threshold_crit_multiplier"	"800"
 			}
 			"04"
 			{
@@ -23571,17 +23571,17 @@
 			"05"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"air_time"					"1.0"
+				"air_time"					"2.0"
 			}
 			"06"
 			{
 				"var_type"					"FIELD_FLOAT"
-				"slow_duration"				"2.0 3.0 4.0"
+				"slow_duration"				"4.0 6.0 8.0"
 			}
 			"07"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"move_slow"					"40"
+				"move_slow"					"80"
 			}
 
 		}
@@ -28180,12 +28180,12 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"speed_bonus"			"-28"
+				"speed_bonus"			"-56"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"radius"				"315"
+				"radius"				"630"
 			}
 		}
 	}
