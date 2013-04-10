@@ -9795,7 +9795,7 @@
 			"02"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"bonus_damage"				"20 40 60 80"
+				"bonus_damage"				"40 80 120 160"
 			}
 			"03"
 			{
@@ -9871,17 +9871,17 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"bonus_attack_range"		"60 120 180 240"
+				"bonus_attack_range"		"120 240 360 480"
 			}
 			"02"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"attack_spill_range"		"590 630 670 710"
+				"attack_spill_range"		"1180 1260 1340 1420"
 			}
 			"03"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"attack_spill_width"				"68 68 68 68"
+				"attack_spill_width"				"136 136 136 136"
 			}
 		}
 	}	
